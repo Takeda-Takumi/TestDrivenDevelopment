@@ -1,7 +1,7 @@
 package gradle;
 
 class Dollar {
-    private int":"" amount;
+    private int amount;
     Dollar(int amount) {
         this.amount = amount;
     }
